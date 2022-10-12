@@ -1,6 +1,7 @@
 minimum_cumulusci_version: '3.66.0'
 project:
     name: Food-Bank
+    namespace: foodbankny
     package:
         name: Food-Bank
         api_version: '55.0'
